@@ -141,6 +141,8 @@ Prominent models like GPT (Generative Pre-trained Transformer) exemplify how tra
 3. Both networks improve through competition until the generator produces highly realistic samples.
 
 **Diagram:**
+
+
 <img width="474" height="375" alt="image" src="https://github.com/user-attachments/assets/d8b761fc-aede-4b63-b2c6-36986dd0d2bf" />
 
 ---
@@ -187,6 +189,8 @@ Text Summarization: Generates concise summaries from larger texts, useful for ne
 Sentiment Analysis: Analyzes and determines the sentiment behind customer reviews and social media posts.
 
 **Diagram:**
+
+
 <img width="850" height="331" alt="image" src="https://github.com/user-attachments/assets/dd91632c-dd84-49a3-90f6-2d16293047ba" />
 
 ---
