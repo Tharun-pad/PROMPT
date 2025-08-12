@@ -66,9 +66,9 @@ Step 7: Finalize and Export
 
 **Title:** Fundamentals of Generative AI and Large Language Models (LLMs)
 
-**Author:** DEVANAND C
+**Author:** THARUN P
 
-**Reg no:** 212223060043
+**Reg no:** 212223060289
 
 ---
 
