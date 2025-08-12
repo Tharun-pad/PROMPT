@@ -91,13 +91,13 @@ This report presents a comprehensive overview of Generative Artificial Intellige
 
 ---
 
-## **1. Introduction**
+#  **1. Introduction**
 
 Generative AI refers to artificial intelligence systems capable of generating new data resembling real-world data. Unlike traditional AI, which focuses on classification or prediction, generative models create new outputs — such as text, images, music, or code — based on patterns learned from training datasets.
 
 ---
 
-## **2. Foundational Concepts of Generative AI**
+# **2. Foundational Concepts of Generative AI**
 
 Generative AI works by modeling data probability distributions to produce new, coherent samples.
 **Key Principles:**
@@ -120,7 +120,7 @@ Through this competition, both networks improve, and the generator learns to pro
 
 ---
 
-## **3. Generative AI Architectures**
+# **3. Generative AI Architectures**
 
 ## Components of Transformers:
 
@@ -181,7 +181,7 @@ Prominent models like GPT (Generative Pre-trained Transformer) exemplify how tra
 3. **Feedforward Layers** process contextualized embeddings.
 4. Output is generated or classified based on the task.
 
-##  Applications:
+#  Applications:
 
 Content Generation: Used in writing articles, blogs, and creative writing.
 Conversational Agents: Powers chatbots and virtual assistants capable of engaging in human-like dialogue.
@@ -196,7 +196,7 @@ Sentiment Analysis: Analyzes and determines the sentiment behind customer review
 
 ---
 
-## **4. Generative AI Applications**
+# **4. Generative AI Applications**
 
 * **Text Generation** (ChatGPT, Bard)
 * **Image Creation** (DALL·E, MidJourney)
@@ -206,7 +206,7 @@ Sentiment Analysis: Analyzes and determines the sentiment behind customer review
 
 ---
 
-## **5. Impact of Scaling in LLMs**
+# **5. Impact of Scaling in LLMs**
 
 Scaling laws in LLMs indicate that increasing parameters, training data, and compute resources improves performance but also increases cost and energy consumption.Large Language Models (LLMs) are a type of artificial intelligence that can understand and generate human-like text based on the input they receive. These models are built using advanced machine learning techniques, particularly deep learning architectures like transformers. Below is a detailed report outlining the key aspects of LLMs, including their architecture, training, applications, and challenges.
 
@@ -220,7 +220,7 @@ Multi-Head Attention: Allows the model to attend to different parts of the input
 
 ---
 
-## **6. Conclusion**
+# **6. Conclusion**
 
 Generative AI and Large Language Models (LLMs) mark a significant breakthrough in artificial intelligence, enabling systems that are creative, adaptive, and capable of complex understanding. These technologies open up new possibilities across industries—from content creation and design to healthcare and education.
 
@@ -230,7 +230,7 @@ Generative AI stands at the cutting edge of technological innovation. By leverag
 
 ---
 
-## 7.Result: 
+# 7.Result: 
 
 Generative AI is at the forefront of innovation, promising to reshape various industries by leveraging advanced models like transformers while addressing challenges of scaling and ethics.
 
